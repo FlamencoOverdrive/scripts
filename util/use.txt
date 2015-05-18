@@ -1,0 +1,3 @@
+util use:
+
+This folder should contain general termainal environment scripts, such as shortcuts for or modifications of general-use commands.
