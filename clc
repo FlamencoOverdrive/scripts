@@ -1,0 +1,4 @@
+#!/bin/bash
+# Aliases clc Matlab command to bash clear
+
+clear
